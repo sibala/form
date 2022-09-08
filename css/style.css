@@ -29,3 +29,7 @@ input[type="submit"] {
 .form-row {
     margin: 10px 0;
 }
+
+.required {
+    color: red;
+}
