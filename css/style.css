@@ -9,13 +9,15 @@ body {
 }
 
 input[type="text"],
-input[type="submit"] {
+input[type="submit"],
+select {
     width: 100%;
     margin: 10px 0;
     padding: 12px;
     border-radius: 5px;
     border: 1px solid #333;
 }
+
 input[type="submit"] {
     background-color: lightgreen;
 }
